@@ -1,1 +1,1 @@
-# NLP-Algorithm-Recommendation-System
+An e-commerce company wants to build an algorithm to retrieve top 5 Question and answers based on the user given Keyword. Built a Flask based deployment NLP algorithm model to retrieve top 5 answers. Created Bag of words, TF-IDF vector model, Cosine similarity and Sorting Recommendation of question and answer based on similarity score. 
